@@ -14,3 +14,5 @@ kramdown:
     toc_levels: "2,3,4"
 highlighter: rouge
 github: [Repository metadata]
+
+theme: jekyll-theme-cayman
